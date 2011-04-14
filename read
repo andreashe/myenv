@@ -1,0 +1,4 @@
+#!/bin/sh
+
+ls follow/ | xargs -I {} cp -LRv follow/{} store/
+
