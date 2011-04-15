@@ -1,2 +1,9 @@
 ../.kde/share/apps/krusader
-../.kde/share/apps/virt_vfs.db
+../.kde/share/apps/kate
+../.kde/share/config/krusaderrc
+../.kde/share/config/katerc
+../.kde/share/config/katepartpluginsrc
+../.kde/share/config/katepartscriptrc
+../.kde/share/config/katepartluaindentscriptrc
+../.kde/share/config/katepartindentjscriptrc
+../bin/cleartemp
