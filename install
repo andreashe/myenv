@@ -1,6 +1,3 @@
 #!/bin/sh
 
-ls -la follow | sed s/.*-\>\ //g | grep -v " " | xargs mkdir -p
-
-ls store/ | xargs -I {} cp -Rv store/{}/ follow/{}/*
-
+tar -xvzf store.tar.gz -C ..

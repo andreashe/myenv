@@ -1,4 +1,15 @@
 #!/bin/sh
 
-ls follow/ | xargs -I {} cp -LRv follow/{} store/
+mkdir temp
 
+tar -xvzf ../store.tar.gz -C temp
+
+cat list.txt | xargs tar -cvzf temp.tar.gz
+
+cd temp
+tar -xvzf ../temp.tar.gz
+tar -cvzf ../store.tar.gz .
+cd ..
+
+rm -R temp
+rm temp.tar.gz

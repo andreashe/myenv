@@ -1,0 +1,2 @@
+../.kde/share/apps/krusader
+../.kde/share/apps/virt_vfs.db
