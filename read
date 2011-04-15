@@ -13,3 +13,5 @@ cd ..
 
 rm -R temp
 rm temp.tar.gz
+
+git add . && git commit -m misc && git push
