@@ -7,3 +7,6 @@
 ../.kde/share/config/katepartluaindentscriptrc
 ../.kde/share/config/katepartindentjscriptrc
 ../bin/cleartemp
+../.vim
+../vimrc
+
