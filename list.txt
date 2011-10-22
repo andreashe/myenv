@@ -8,5 +8,5 @@
 ../.kde/share/config/katepartindentjscriptrc
 ../bin/cleartemp
 ../.vim
-../vimrc
+../.vimrc
 
