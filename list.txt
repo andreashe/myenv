@@ -9,4 +9,5 @@
 ../bin/cleartemp
 ../.vim
 ../.vimrc
+../.bashrc.my
 
