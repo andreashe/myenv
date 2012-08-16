@@ -1,0 +1,378 @@
+[$Version]
+update_info=kate-2.4.upd:kate2.4
+
+[Colors]
+CurrentPalette=Vierzig Farben
+
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[Document 0]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=
+Mode=
+ReadWrite=true
+URL=
+
+[Document 1]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=
+Mode=
+ReadWrite=true
+URL=
+
+[Document 2]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=
+Mode=
+ReadWrite=true
+URL=
+
+[Document 3]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=
+Mode=
+ReadWrite=true
+URL=
+
+[Favorite Profiles]
+Favorites=
+
+[FileList]
+Edit Shade=74,200,28
+Shading Enabled=true
+SortRole=34
+View Shade=191,206,172
+
+[General]
+Days Meta Infos=30
+First Start=false
+Last Session=
+Modified Notification=true
+Restore Window Configuration=true
+Save Meta Infos=true
+Show Full Path in Title=true
+Show Status Bar=true
+Startup Session=new
+
+[KFileDialog Settings]
+Height 1050=512
+Height 1200=450
+Height 800=450
+Height 900=450
+Recent Files[$e]=$HOME/Desktop/sms.txt,$HOME/Documents/startartsrefact,$HOME/Documents/git-howto
+Width 1280=700
+Width 1600=700
+Width 1680=790
+
+[KTEXTEDITOR:]
+DEVELOPER_INFO=NEVER TRY TO USE VALUES FROM THAT GROUP, THEY ARE SUBJECT TO CHANGES
+
+[Kate Document Defaults]
+Allow End of Line Detection=true
+Allow Simple Mode=true
+Automatically Insert Closing Brackets=false
+BOM=false
+Backup Config Flags=0
+Backup Prefix=
+Backup Suffix=~
+Basic Config Flags=44564512
+Encoding=UTF-8
+End of Line=0
+Indent On Backspace=false
+Indent On Tab=true
+Indent On Text Paste=false
+Indentation Mode=
+Indentation Width=2
+Keep Extra Spaces=false
+No sync=false
+On-The-Fly Spellcheck=false
+Overwrite Mode=false
+PageUp/PageDown Moves Cursor=false
+ProberType for Encoding Autodetection=0
+Remove Spaces=false
+RemoveTrailingDyn=false
+ReplaceTabsDyn=false
+Search Dir Config Depth=3
+Show Spaces=false
+Show Tabs=true
+Smart Home=true
+Tab Handling=2
+Tab Width=2
+Word Wrap=false
+Word Wrap Column=80
+Wrap Cursor=true
+
+[Kate Part Defaults]
+Encoding Prober Type=1
+Fallback Encoding=ISO-8859-15
+
+[Kate Plugins]
+kate_kttsd=false
+katebacktracebrowserplugin=true
+katebuildplugin=true
+katectagsplugin=false
+kateexternaltoolsplugin=true
+katefilebrowserplugin=true
+katefiletemplates=true
+katefiletreeplugin=true
+katefindinfilesplugin=true
+kategdbplugin=false
+katekonsoleplugin=true
+katemailfilesplugin=true
+kateopenheaderplugin=false
+katequickdocumentswitcherplugin=true
+katesnippets_tngplugin=false
+katesnippetsplugin=true
+katesqlplugin=false
+katesymbolviewerplugin=false
+katetabbarextensionplugin=true
+katetabifyplugin=false
+katetextfilterplugin=true
+katexmlcheckplugin=false
+katexmltoolsplugin=false
+
+[Kate Renderer Defaults]
+Schema=kate - Normal
+Show Indentation Lines=false
+Show Whole Bracket Expression=true
+Word Wrap Marker=false
+
+[Kate Vi Input Mode Settings]
+Normal Mode Mapping Keys=
+Normal Mode Mappings=
+
+[Kate View Defaults]
+Allow Mark Menu=true
+Auto Center Lines=0
+Auto Completion=true
+Bookmark Menu Sorting=0
+Default Mark Type=1
+Dynamic Word Wrap=false
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap Indicators=1
+Folding Bar=true
+Icon Bar=false
+Line Numbers=false
+Maximum Search History Size=100
+Persistent Selection=false
+Replacement Text History=*.pm,*.pl,*.t,::,,mv ./,mv ./lib/,mv .,$model,name,bynode,paths,/request/handler,/request,'cond',HexConvert,Carbon,BooleanSimple,isFalse,isTrue,\\\\nBranche,               ------------------------\\\\n,\\\\n               ------------------------,\\\\n,Config,IniHashReadDeep,_,Dir,ListFilesRecursive,list_files_no_path,no_path,no_hidden,no_hidden_files,no_folder,no_dir,no_files,only_files,only_dir,only_folder,@files,_filter_file_array,_sub_path_from_array,_add_path_to_array,list_files_flat,list_files,_list_files_recursive_all,list_files_recursive,String::FilenameStatic,String/FilenameStatic,String-FilenameStatic,get_path,get_filename,get_file,get_file_extension,remove_trailing_slash,get_file_path,extract_name,extract_extension,remove_end_slash,extract_file,extract_path,Log4Perl,ImportHandle, at,$exportfunc,\\\\n\\\\n,renderObjectWithJsonArray,renderObjectWithData(,JsonTemplateController,\\\\1,$1 ,log->,$tagedit,Bookkeeping,$self,$template,$mod,writeApplicationConfig,$this,',perl -MCPANPLUS -e 'install ,href="../../../,src="../,twitterbox,twittermessage,.ui-dialog-content,dlg_login,left,\\\\t,\\\\ŧbb\\\\t,<code,/svr/www,pathtomyperlapp,awebsite,/www/wh.rpe,case-assistant,/www/wh.case,rated-patent
+Scroll Bar Marks=false
+Scroll Past End=false
+Search Pattern History=*.pl,*.t,*.pm,/,.pm,./Tests/lib/,./lib/,./,.,Command,plugin_search_path,$crud,alias,byname,systempages,/request/request,/cgi,'event',BooleanSimple,carbon,FilenameStatic,is_false,is_true,Branche,               ------------------------,\\\\n\\\\n,$,Object,GlobalContainer,String,list_files_flat,noPath,noHidden,noHiddenFiles,noFolder,noDir,noFiles,onlyFiles,onlyDir,onlyFolder,@f,_filterFileArray,_subPathFromArray,_addPathToArray,getDirArray,getDirFlat,_list_files_recursiveAll,getFilesRecoursive,getFilesR,Hash::Work,Hash/Work,Hash-Work,get_file_path,extract_name,get_filename,extract_extension,remove_end_slash,extract_file,extract_path,extractName,extractExtension,removeEndSlash,extractFile,extractPath, in at,$exportvar,\\\\n,renderObjectWithData,render(,JsonTemplates, 1445, 1446, 1444, 443, 1443,remote ,$log->,$htre,WorkTimeEntry,$this,$target,$line,',perl -MCPANPLUS -e 'install ,prepareApplicationConfig,$self,-perl,^lib,href=",src=",newsbox,newsmessage,div#left div#nav_login,nav_login,center,http://jqueryui.com/latest/ui/,^,<pre,/mnt/ex/main/www,mnt/ex/main/www/wh.case
+Search/Replace Flags=141
+Smart Copy Cut=false
+Vi Input Mode=false
+Vi Input Mode Hide Status Bar=false
+Vi Input Mode Steal Keys=false
+Word Completion=true
+Word Completion Minimal Word Length=3
+
+[Konsole]
+AutoSyncronize=false
+
+[MainWindow]
+Height 1050=1002
+Height 1200=1125
+Height 480=481
+Height 768=686
+Height 800=801
+Height 900=622
+Height 984=985
+State=AAAA/wAAAAD9AAAAAAAABCMAAAJcAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1024=1016
+Width 1280=1281
+Width 1554=1555
+Width 1600=930
+Width 1680=1580
+Width 640=641
+
+[MainWindow][Toolbar extraToolBar]
+Hidden=true
+Index=1
+ToolButtonStyle=TextBesideIcon
+
+[MainWindow][Toolbar mainToolBar]
+Index=0
+
+[MainWindow0]
+Height 1050=1051
+Kate-MDI-H-Splitter=200,1349,200
+Kate-MDI-Sidebar-0-Splitter=949,0
+Kate-MDI-Sidebar-3-Splitter=0,0,0,0
+Kate-MDI-Sidebar-Style=2
+Kate-MDI-ToolView-KateBtBrowserPlugin-Persistent=false
+Kate-MDI-ToolView-KateBtBrowserPlugin-Position=3
+Kate-MDI-ToolView-KateBtBrowserPlugin-Sidebar-Position=3
+Kate-MDI-ToolView-KateBtBrowserPlugin-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Sidebar-Position=1
+Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Sidebar-Position=1
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Sidebar-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Visible=true
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Sidebar-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Visible=false
+Kate-MDI-ToolView-katefindinfilesplugin_1-Persistent=false
+Kate-MDI-ToolView-katefindinfilesplugin_1-Position=3
+Kate-MDI-ToolView-katefindinfilesplugin_1-Sidebar-Position=2
+Kate-MDI-ToolView-katefindinfilesplugin_1-Visible=false
+Kate-MDI-V-Splitter=150,923,200
+State=AAAA/wAAAAD9AAAAAAAABiwAAAO1AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+Width 1680=1681
+
+[MainWindow0 Settings]
+Height 1050=1051
+State=AAAA/wAAAAD9AAAAAAAABiwAAAO1AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+Width 1680=1681
+WindowState=10
+
+[MainWindow0-Splitter 0]
+Sizes=1349
+
+[MainWindow0-ViewSpace 0]
+Active View=
+Count=1
+View 0=file:///home/hernitsc/Dropbox/help/linux/misc/search_replace.txt
+View 1=file:///home/hernitsc/private/development/scripts/Perl-Modules/Devel-NYTProf-Callgrind-TicksDiff/bin/test
+View 2=file:///home/hernitsc/private/development/scripts/Perl-Modules/Devel-NYTProf-Callgrind-TicksDiff/lib/Devel/NYTProf/Callgrind/Foo.pm
+
+[MainWindow0-ViewSpace 0 file:///home/hernitsc/Desktop/sms.txt]
+CursorColumn=0
+CursorLine=13
+
+[MainWindow0-ViewSpace 0 file:///home/hernitsc/Documents/blrperf.txt]
+CursorColumn=19
+CursorLine=47
+
+[MainWindow0-ViewSpace 0 file:///home/hernitsc/Documents/git-howto]
+CursorColumn=0
+CursorLine=75
+
+[MainWindow0-ViewSpace 0 file:///home/hernitsc/Dropbox/development/scripts/Perl-Modules/Devel-NYTProf-Callgrind-TicksDiff/lib/Devel/NYTProf/Callgrind/Ticks.pm]
+CursorColumn=0
+CursorLine=8
+
+[MainWindow0-ViewSpace 0 file:///home/hernitsc/Dropbox/help/linux/misc/search_replace.txt]
+CursorColumn=28
+CursorLine=0
+
+[MainWindow0-ViewSpace 0 file:///home/hernitsc/private/development/scripts/Perl-Modules/Devel-NYTProf-Callgrind-TicksDiff/bin/test]
+CursorColumn=30
+CursorLine=11
+
+[MainWindow0-ViewSpace 0 file:///home/hernitsc/private/development/scripts/Perl-Modules/Devel-NYTProf-Callgrind-TicksDiff/lib/Devel/NYTProf/Callgrind/Foo.pm]
+CursorColumn=36
+CursorLine=2
+
+[MainWindow0-ViewSpace 0 file:///home/hernitsc/temp/tt/a.pm]
+CursorColumn=13
+CursorLine=20
+
+[MainWindow0-ViewSpace 0 file:///home/hernitsc/temp/tt/b.pm]
+CursorColumn=11
+CursorLine=8
+
+[Open Documents]
+Count=1
+
+[Open MainWindows]
+Count=1
+
+[Plugin:katebuildplugin:MainWindow:0:build-plugin]
+Clean Command=make clean
+Make Command=make
+Make Path=
+Quick Compile Command=gcc -Wall -g %f
+
+[Plugin:katefilebrowserplugin:MainWindow:0]
+auto sync folder=false
+filter history=
+location[$e]=file://$HOME
+
+[Plugin:katefilebrowserplugin:MainWindow:0:dir]
+Decoration position=0
+Previews=false
+Show Preview=false
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+View Style=Simple
+
+[Plugin:katefindinfilesplugin::find-in-files]
+CaseSensitive=true
+FollowDirectorySymlinks=false
+IncludeHiddenFiles=false
+LastSearchFiles=*,*.h\\,*.hxx\\,*.cpp\\,*.cc\\,*.C\\,*.cxx\\,*.idl\\,*.c,*.cpp\\,*.cc\\,*.C\\,*.cxx\\,*.c,*.h\\,*.hxx\\,*.idl
+LastSearchItems=
+LastSearchPaths=
+Recursive=true
+RegExp=false
+
+[Plugin:katetabbarextensionplugin:MainWindow:0:view]
+button style=0
+color active=150,150,255
+color modified=255,0,0
+color previous=150,150,255
+count of rows=1
+fixed height=20
+follow current tab=true
+highlight active=false
+highlight modified=false
+highlight opacity=20
+highlight previous=false
+highlighted colors=
+highlighted documents=
+location top=false
+maximum width=300
+minimum width=150
+sort type=0
+
+[Recent Files]
+File1[$e]=$HOME/temp/tt/a.pm
+File2[$e]=$HOME/temp/tt/b.pm
+File3[$e]=$HOME/Documents/blrperf.txt
+File4[$e]=$HOME/Dropbox/development/scripts/Perl-Modules/Devel-NYTProf-Callgrind-TicksDiff/lib/Devel/NYTProf/Callgrind/Ticks.pm
+File5[$e]=$HOME/Desktop/sms.txt
+File6[$e]=$HOME/Dropbox/help/linux/misc/search_replace.txt
+Name1[$e]=a.pm
+Name2[$e]=b.pm
+Name3[$e]=blrperf.txt
+Name4[$e]=Ticks.pm
+Name5[$e]=sms.txt
+Name6[$e]=search_replace.txt
+
+[fileselector]
+AutoSyncEvents=0
+filter history=
+filter history len=9
+pathcombo history len=9
+restore last filter=true
+restore location=true
+toolbar actions=up,back,forward,reload,home,short view,detailed view,tree view,bookmarks,sync_dir
+
+[filetree]
+editShade=255,201,241
+listMode=false
+shadingEnabled=true
+showFullPathOnRoots=false
+sortRole=0
+viewShade=185,178,206

@@ -1,0 +1,11 @@
+sub «foo» {
+    my $self = shift;
+    my $param = {@_};
+    my $«test» = $param->{'«test»'};
+    my $«test» = $param->{'«test»'};
+    my $result;
+
+    «code» 
+
+    return $result;
+}

@@ -1,0 +1,232 @@
+[Document 0]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=INI Files
+Indentation Mode=
+Mode=INI Files
+URL=file:///home/andreash/private/development/scripts/rdptime/config/common.ini
+
+[Document 1]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=INI Files
+Indentation Mode=
+Mode=INI Files
+URL=file:///home/andreash/private/development/scripts/rdptime/config/modules/Xls.ini
+
+[Document 2]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Perl
+Indentation Mode=
+Mode=Perl
+URL=file:///home/andreash/private/development/scripts/rdptime/libapp/RdpTime/Module/Abstract.pm
+
+[Document 3]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Perl
+Indentation Mode=
+Mode=Perl
+URL=file:///home/andreash/private/development/scripts/rdptime/libapp/RdpTime/Module/Xls.pm
+
+[Document 4]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Perl
+Indentation Mode=
+Mode=Perl
+URL=file:///home/andreash/private/development/scripts/rdptime/libapp/RdpTime/Core.pm
+
+[Document 5]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Perl
+Indentation Mode=
+Mode=Perl
+URL=file:///home/andreash/private/development/scripts/rdptime/libapp/RdpTime/Work.pm
+
+[DocumentModel:MainWindow:0]
+Order=0,1,2,3,4,5
+SortRole=34
+
+[Kate Plugins]
+katebacktracebrowserplugin=true
+katebuildplugin=true
+katectagsplugin=false
+kateexternaltoolsplugin=true
+katefilebrowserplugin=true
+katefiletemplates=true
+katefindinfilesplugin=true
+katekonsoleplugin=true
+katemailfilesplugin=true
+kateopenheaderplugin=false
+katequickdocumentswitcherplugin=true
+katesnippetsplugin=true
+katesymbolviewerplugin=false
+katetabbarextensionplugin=true
+katetextfilterplugin=true
+
+[MainWindow0]
+Active ViewSpace=0
+Height 1200=1201
+Kate-MDI-H-Splitter=200,1361,200
+Kate-MDI-Sidebar-0-Splitter=1044,0,0
+Kate-MDI-Sidebar-1-Splitter=
+Kate-MDI-Sidebar-2-Splitter=
+Kate-MDI-Sidebar-3-Splitter=0,0,0
+Kate-MDI-Sidebar-Style=2
+Kate-MDI-Sidebar-Visible=true
+Kate-MDI-ToolView-KateBtBrowserPlugin-Persistent=false
+Kate-MDI-ToolView-KateBtBrowserPlugin-Position=3
+Kate-MDI-ToolView-KateBtBrowserPlugin-Sidebar-Position=2
+Kate-MDI-ToolView-KateBtBrowserPlugin-Visible=false
+Kate-MDI-ToolView-kate_filelist-Persistent=false
+Kate-MDI-ToolView-kate_filelist-Position=0
+Kate-MDI-ToolView-kate_filelist-Sidebar-Position=0
+Kate-MDI-ToolView-kate_filelist-Visible=true
+Kate-MDI-ToolView-kate_plugin_snippets-Persistent=false
+Kate-MDI-ToolView-kate_plugin_snippets-Position=0
+Kate-MDI-ToolView-kate_plugin_snippets-Sidebar-Position=2
+Kate-MDI-ToolView-kate_plugin_snippets-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Sidebar-Position=1
+Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Sidebar-Position=1
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Sidebar-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Visible=false
+Kate-MDI-V-Splitter=150,1018,200
+State=AAAA/wAAAAD9AAAAAAAABjgAAAQUAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAAAAAAGABlAHgAdAByAGEAVABvAG8AbABCAGEAcgEAAAMa/////wAAAAAAAAAA
+Width 1600=1601
+
+[MainWindow0][Toolbar extraToolBar]
+Index=1
+ToolButtonStyle=TextBesideIcon
+
+[MainWindow0][Toolbar mainToolBar]
+Index=0
+
+[MainWindow0 Settings]
+Height 1200=1201
+State=AAAA/wAAAAD9AAAAAAAABjgAAAQUAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAAAAAAGABlAHgAdAByAGEAVABvAG8AbABCAGEAcgEAAAMa/////wAAAAAAAAAA
+Width 1600=1601
+WindowState=10
+
+[MainWindow0 Settings][Toolbar extraToolBar]
+Index=1
+ToolButtonStyle=TextBesideIcon
+
+[MainWindow0 Settings][Toolbar mainToolBar]
+Index=0
+
+[MainWindow0-Splitter 0]
+Children=MainWindow0-ViewSpace 0
+Orientation=1
+Sizes=1361
+
+[MainWindow0-ViewSpace 0]
+Active View=file:///home/andreash/private/development/scripts/rdptime/libapp/RdpTime/Module/Xls.pm
+Count=6
+View 0=file:///home/andreash/private/development/scripts/rdptime/config/common.ini
+View 1=file:///home/andreash/private/development/scripts/rdptime/libapp/RdpTime/Module/Abstract.pm
+View 2=file:///home/andreash/private/development/scripts/rdptime/libapp/RdpTime/Core.pm
+View 3=file:///home/andreash/private/development/scripts/rdptime/libapp/RdpTime/Work.pm
+View 4=file:///home/andreash/private/development/scripts/rdptime/config/modules/Xls.ini
+View 5=file:///home/andreash/private/development/scripts/rdptime/libapp/RdpTime/Module/Xls.pm
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/private/development/scripts/rdptime/config/common.ini]
+CursorColumn=0
+CursorLine=0
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/private/development/scripts/rdptime/config/modules/Xls.ini]
+CursorColumn=1
+CursorLine=0
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/private/development/scripts/rdptime/libapp/RdpTime/Core.pm]
+CursorColumn=0
+CursorLine=0
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/private/development/scripts/rdptime/libapp/RdpTime/Module/Abstract.pm]
+CursorColumn=0
+CursorLine=0
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/private/development/scripts/rdptime/libapp/RdpTime/Module/Xls.pm]
+CursorColumn=49
+CursorLine=155
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/private/development/scripts/rdptime/libapp/RdpTime/Work.pm]
+CursorColumn=0
+CursorLine=0
+
+[Open Documents]
+Count=6
+
+[Open MainWindows]
+Count=1
+
+[Plugin:katebuildplugin:MainWindow:0:build-plugin]
+Clean Command=make clean
+Make Command=make
+Make Path=
+Quick Compile Command=gcc -Wall -g
+
+[Plugin:katefilebrowserplugin:MainWindow:0]
+current filter=
+dir history[$e]=
+last filter=
+
+[Plugin:katefilebrowserplugin:MainWindow:0:dir]
+Decoration position=0
+Previews=false
+Show Preview=false
+Show hidden files=false
+Sort by=Name
+Sort reversed=false
+View Style=Simple
+
+[Plugin:katefindinfilesplugin::find-in-files]
+CaseSensitive=true
+LastSearchFiles=*,*.h\\,*.hxx\\,*.cpp\\,*.cc\\,*.C\\,*.cxx\\,*.idl\\,*.c,*.cpp\\,*.cc\\,*.C\\,*.cxx\\,*.c,*.h\\,*.hxx\\,*.idl
+LastSearchItems=
+LastSearchPaths=
+Recursive=true
+RegExp=false
+
+[Plugin:katetabbarextensionplugin:MainWindow:0:view]
+button style=0
+color active=150,150,255
+color modified=255,0,0
+color previous=150,150,255
+count of rows=1
+fixed height=22
+follow current tab=true
+highlight active=false
+highlight modified=false
+highlight opacity=20
+highlight previous=false
+highlighted colors=
+highlighted documents=
+location top=false
+maximum width=150
+minimum width=70
+sort type=0
+
+[Recent Files]
+File1[$e]=$HOME/private/development/scripts/rdptime/config/common.ini
+File2[$e]=$HOME/private/development/scripts/rdptime/config/modules/Xls.ini
+File3[$e]=$HOME/private/development/scripts/rdptime/libapp/RdpTime/Module/Abstract.pm
+File4[$e]=$HOME/private/development/scripts/rdptime/libapp/RdpTime/Module/Xls.pm
+File5[$e]=$HOME/private/development/scripts/rdptime/libapp/RdpTime/Core.pm
+File6[$e]=$HOME/private/development/scripts/rdptime/libapp/RdpTime/Work.pm
+Name1[$e]=common.ini
+Name2[$e]=Xls.ini
+Name3[$e]=Abstract.pm
+Name4[$e]=Xls.pm
+Name5[$e]=Core.pm
+Name6[$e]=Work.pm

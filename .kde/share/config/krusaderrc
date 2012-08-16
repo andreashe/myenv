@@ -1,0 +1,229 @@
+First Time=false
+Height 1050=782
+State=AAAA/wAAAAD9AAAAAAAABQ4AAALxAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHABhAGMAdABpAG8AbgBzAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAA==
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Version=2.3.0-beta1
+Width 1680=1294
+
+[Actions Toolbar]
+Index=1
+
+[Advanced]
+Confirm Unempty Dir=false
+PreserveAttributes=true
+
+[Archives]
+Supported Packers=tar,gzip,bzip2,lzma,unzip,zip,lha,cpio,rar,arj,unace,dpkg,7z,rpm
+lastUsedPacker=tar.gz
+
+[Colors]
+Alternate Background=0,0,128
+Background=0,0,128
+Current Background=0,128,128
+Current Foreground=255,255,255
+Directory Foreground=192,192,192
+Executable Foreground=0,255,0
+Foreground=255,255,255
+Invalid Symlink Foreground=128,0,0
+KDE Default=false
+Marked Background=Background
+Marked Current Foreground=255,255,0
+Marked Foreground=255,255,0
+Symlink Foreground=0,255,255
+
+[Dependencies]
+7z=/usr/bin/7z
+arj=/usr/bin/arj
+bzip2=/bin/bzip2
+checksum utility=/usr/bin/md5sum
+cpio=/bin/cpio
+diff utility=/usr/bin/kdiff3
+dpkg=/usr/bin/dpkg
+gzip=/bin/gzip
+kdesu=/usr/bin/kdesudo
+kdiff3=/usr/bin/kdiff3
+kget=/usr/bin/kget
+kmail=/usr/bin/kmail
+kompare=/usr/bin/kompare
+krename=/usr/bin/krename
+krusader=/usr/bin/krusader
+lha=/usr/bin/lha
+locate=/usr/bin/locate
+lzma=/usr/bin/lzma
+mailer=/usr/bin/thunderbird
+md5deep=/usr/bin/md5deep
+md5sum=/usr/bin/md5sum
+mount=/bin/mount
+rar=/usr/bin/rar
+rpm=/usr/bin/rpm
+sha1deep=/usr/bin/sha1deep
+sha1sum=/usr/bin/sha1sum
+sha224sum=/usr/bin/sha224sum
+sha256deep=/usr/bin/sha256deep
+sha256sum=/usr/bin/sha256sum
+sha384sum=/usr/bin/sha384sum
+sha512sum=/usr/bin/sha512sum
+tar=/bin/tar
+thunderbird=/usr/bin/thunderbird
+tigerdeep=/usr/bin/tigerdeep
+umount=/bin/umount
+unace=/usr/bin/unace
+unrar=/usr/bin/unrar
+unzip=/usr/bin/unzip
+updatedb=/usr/bin/updatedb
+whirlpooldeep=/usr/bin/whirlpooldeep
+zip=/usr/bin/zip
+
+[DiskUsage]
+D State=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03{\x00\x00\x00\t\x01\x01\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00‹\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x007\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x01∏\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00B\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00n\x00\x00\x00\x02\x00\x00\x00\x00
+L State=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01&\x00\x00\x00\x03\x01\x01\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x08\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00B\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00‹\x00\x00\x00\x01\x00\x00\x00\x00
+View=2
+Window Height=450
+Window Maximized=false
+Window Width=770
+
+[General]
+Default Viewer Mode=text
+Editor=kate -u
+
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[KPropertiesDialog]
+Height 1200=411
+Height 800=395
+Width 1280=366
+Width 1600=351
+
+[Konfigurator]
+Window Height=730
+Window Maximized=false
+Window Width=1345
+
+[KrDetailedViewLeft]
+ColumnOrder=0,1,2,3,4
+ColumnWidths=393,42,80,80,20
+SortAscending=true
+SortColumn=0
+
+[KrDetailedViewRight]
+ColumnOrder=0,1,2,3,4
+ColumnWidths=276,66,135,115,20
+SortAscending=true
+SortColumn=0
+
+[KrInterDetailedViewLeft]
+Descending Sort Order=0
+Saved State=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\t®\x01\x00\x00\x00\x04\x00\x00\x00\x08\x00\x00\x00d\x00\x00\x00\x07\x00\x00\x00d\x00\x00\x00\x05\x00\x00\x00d\x00\x00\x00\x03\x00\x00\x00d\x00\x00\x02r\x00\x00\x00\t\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x01v\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00,\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00F\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00p\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x1a\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00
+Sort Column=0
+
+[KrInterDetailedViewRight]
+Descending Sort Order=0
+Saved State=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\t®\x01\x00\x00\x00\x04\x00\x00\x00\x08\x00\x00\x00d\x00\x00\x00\x07\x00\x00\x00d\x00\x00\x00\x05\x00\x00\x00d\x00\x00\x00\x03\x00\x00\x00d\x00\x00\x02~\x00\x00\x00\t\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x01Ç\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00,\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00F\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00p\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x1a\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00
+Sort Column=0
+
+[KrViewerWindow]
+Window Height=-1
+Window Maximized=true
+Window Width=-1
+
+[Look&Feel]
+Panel Toolbar visible=true
+Show Hidden=false
+With Icons=true
+
+[Main Toolbar]
+Index=0
+
+[Notification Messages]
+Binary File Opened Warning=false
+Broken UTF-8 File Opened Warning=false
+
+[Open-with settings]
+CompletionMode=5
+History=/opt/firefox/firefox,keepassx
+
+[Private]
+Height 1200=1201
+Height 800=801
+Left PanelPopup Splitter Sizes=100,100
+Maximized=false
+PopularUrls=file:///home/hernitsc/Dropbox/docs/hernitscheck_it/gewerbe/,file:///home/hernitsc/Dropbox/docs/hernitscheck_it/,file:///home/hernitsc/Dropbox/docs/,file:///home/hernitsc/Dropbox/misc/,file:///home/hernitsc/Dropbox/clients/xantavia/,file:///home/hernitsc/Dropbox/clients/,file:///home/hernitsc/Dropbox/clients/wuh/,file:///home/hernitsc/Dropbox/,file:///home/hernitsc/,file:///home/hernitsc/Dropbox/clients/wuh/docs/,file:///home/hernitsc/private/development/scripts/carbon/www/,file:///home/hernitsc/Dropbox/desktop/,file:///home/hernitsc/Dropbox/help/linux/misc/,file:///home/hernitsc/Dropbox/help/linux/,file:///home/hernitsc/Dropbox/help/linux/git/,file:///home/hernitsc/Dropbox/help/,file:///home/hernitsc/private/,file:///home/hernitsc/Dropbox/images/Motorraeder/,file:///home/hernitsc/Dropbox/images/,file:///home/hernitsc/Dropbox/images/Motorraeder/Harley/,file:///home/hernitsc/private/development/scripts/Perl-Modules/Devel-NYTProf-Callgrind-TicksDiff/,file:///home/hernitsc/temp/Devel-NYTProf-Callgrind-TicksDiff/lib/Devel/NYTProf/,file:///home/hernitsc/temp/Devel-NYTProf-Callgrind-TicksDiff/lib/Devel/NYTProf/Callgrind/,file:///home/hernitsc/temp/Devel-NYTProf-Callgrind-TicksDiff/lib/Devel/,file:///home/hernitsc/temp/Devel-NYTProf-Callgrind-TicksDiff/,file:///home/hernitsc/temp/Devel-NYTProf-Callgrind-TicksDiff/lib/,file:///home/hernitsc/temp/,tar:/home/hernitsc/temp/Devel-NYTProf-Callgrind-TicksDiff-0.02.tar.gz/,tar:/home/hernitsc/temp/Devel-NYTProf-Callgrind-TicksDiff-0.02.tar.gz/Devel-NYTProf-Callgrind-TicksDiff/,file:///home/hernitsc/projects/Perl-Modules/
+PopularUrlsRank=20,19,18,13,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Right PanelPopup Splitter Sizes=100,100
+Splitter Sizes=647,644
+Start Position=158,39
+Start Size=1294,782
+Width 1280=1281
+Width 1600=1601
+cmdline history=/,kate
+newFTP Completion list=10.0.1.7:1,xantavia.net:1
+newFTP History list=xantavia.net,10.0.1.7
+
+[Protocols]
+Handled Protocols=tar,krarc,iso
+Mimes For iso=application/x-cd-image
+Mimes For krarc=application/zip,application/x-rpm,application/x-rar,application/x-lha,application/x-gzip,application/x-deb,application/x-cpio,application/x-arj,application/x-ace,application/x-7z-compressed
+Mimes For tar=application/x-tarz,application/x-tar,application/x-compressed-tar,application/x-bzip-compressed-tar
+
+[QueueManager]
+Active=0
+Queues=default
+Window Height=400
+Window Width=300
+Window X=20
+Window Y=28
+
+[Search]
+ContainsText Completion=worldnet45,weblog,oberhaeuptling,onInit,onfig/file/init/modules/generic,10.0.2.202,1952220,180 59763,rpedev.net,re that the REQUEST will be checked and con,rew,reg,registerComponent,remain,rolf,rss,runall,pures,provider,profile_ano.txt,press room,price*,print,print "jkhghjbgjkhbgkjbjkbjk";,prio,path,param,pdata.xml,pdf,ssh,sub count,sub get{,sub setData,sub setData{,sub onContentParsed,smtp,sophos,setcatalys,setCatalystVar,setTagEditor,setINI,systempages,for was not found or there is a problem with the connection to,forea,feature.pm,find_module_config,epsearchtype,est page,ew/html/content,extension,enabled,event,thaw,try{,test page,tex,time.txt,2199,212.227.39.188,validateEMailNew,viewtt,Email address alread,labeltext,labeltext_label,last_content.html,localid,localhost,loadnews,loadClasses,log->,login,logout,logfile.log,lib,lc,createImageBundleOfPdfs,car_question,calculator.me.org,caller,cine,cinema,conf,conf/default,config_path,config/modules/ARRAY,config/modules/array,clear,mail,mailformfile,machielski,module,model(,me.org,memcached.ini,menu.html,merge_hashes,html,htmltt,hex,blog,beta,base,boolean,byurl,byentry,byname,news,news.ini,newssources,newsall,name,_skeleton_home.html,_header,activation_pattern,anal,auto,auto_contr,alias,FILE.PATH.ABSOLUT,default,default_rand,default_images_head_random_path,debug,database=",daemon,dummy,RPE::PageHeader,Roles,Images index,WH::Daemon::ImportNews,WEBAPP_CONFDIR,WebApp,90,getListAsHashArray,getConfig,getConfigArray,getINI,get_qualified_modules,google,global,glowf,Pageheader,Pod::Text,Geo,Getopt::Long,Hans,HTMLEDIT,Vorname,View::TT,VIEW,ini,ini_array,igel_udc_cd.iso,'true','#' x,You are,Test page,TTBuilder,TEMPLATE_EXTENSION,$WebApp::configloader,UPS,SYSTEM,SYSTEM/LOG,<<<,>>>,DUMMY,Moose,Model::Test,MVC,Controllers,CLOG,OC->set,/cgi,"#" x,use Error
+ContainsText History=Model::Test,model(,MVC,prio,config/modules/array,config/modules/ARRAY,onfig/file/init/modules/generic,alias,name,byname,remain,use Error,caller,htmltt,viewtt,CLOG,systempages,lc,'#' x,"#" x,get_qualified_modules,/cgi,OC->set,clear,param
+Feed To Listbox Counter=12
+Last State=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x05\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x03\x00\x00\x00\x04\x00\x00\x00\x05\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x03\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04æ\x00\x00\x00\x05\x01\x01\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x02˛\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00Á\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x006\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00?\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x00\x00
+SearchFor Completion=jcommon*,jfree,JFree*,*,*.html,*.jar,*.jpg,*.txt,*.tif,*.tiff,*.pdf,*.psd,*.pm,*.pod,*.xml,*.graphxml,*.graphml,*.doc,*.rtf,*api*,*trenn*,*ocr*,*gwian*,*gwion*,.svn,svn,skel,setINI,hartz*,herni,wuh*,rrs,feed,form,ui.core.js,nav_login_button.gif,new,news,daem*,temp,trenn*,access,access.txt,anim*,apploader,load,loadtw,o2,ocr*,2009,barc*,menu,menu*,conflic,conflict,container,year,projects_by_year,people,people.pm,gwian*,People.pm,quick
+SearchFor History=*,quick,conflic,People.pm,people.pm,people,access.txt,access,*.pod,*gwion*,*gwian*,gwian*,*.jpg,*.txt,container,*.rtf,projects_by_year,year,conflict,herni,setINI,apploader,*.pdf,menu,menu*
+Window Height=723
+Window Maximized=true
+Window Width=1272
+
+[Startup]
+Left Active Tab=0
+Left Panel Popup=0
+Left Side Is Active=true
+Left Tab Bar[$e]=$HOME/temp,$HOME/private/development/scripts/carbon/www
+Left Tab Bar Icon Sizes=22,22
+Left Tab Bar Props=0,0
+Left Tab Bar Types=0,0
+Right Active Tab=2
+Right Panel Popup=0
+Right Tab Bar[$e]=$HOME/private/development/scripts/Perl-Modules/Devel-NYTProf-Callgrind-TicksDiff,$HOME/private/misc,$HOME/Dropbox/docs/hernitscheck_it/gewerbe
+Right Tab Bar Icon Sizes=22,22,22
+Right Tab Bar Props=0,0,0
+Right Tab Bar Types=0,0,0
+Show FN Keys=false
+Show tool bar=false
+Vertical Mode=false
+
+[Synchronize]
+Asymmetric=false
+Compare By Content=true
+Deletable Button=true
+Differents Button=true
+Duplicates Button=true
+Equals Button=false
+File Filter=*
+Follow Symlinks=false
+Ignore Case=false
+Ignore Date=false
+Left Directory History=/home/andreash/temp/cabontt/master
+LeftToRight Button=false
+Parallel Threads=1
+Recurse Subdirectories=true
+Right Directory History=/home/andreash/temp/cabontt/work
+RightToLeft Button=true
+Scroll Results=false
+Singles Button=true
+State=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04-\x00\x00\x00\x07\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x01F\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00L\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00r\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00&\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00r\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00L\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x01E\x00\x00\x00\x01\x00\x00\x00\x00
+Window Height=557
+Window Maximized=false
+Window Width=1127

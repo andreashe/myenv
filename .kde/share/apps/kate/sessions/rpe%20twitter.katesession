@@ -1,0 +1,373 @@
+[Document 0]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Perl
+Indentation Mode=
+Mode=Perl
+URL=file:///home/andreash/temp/testtwitter/Net-Twitter-Lite-0.08006/lib/x.pl
+
+[Document 1]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Perl
+Indentation Mode=
+Mode=Perl
+URL=file:///home/andreash/temp/testtwitter/Net-Twitter-Lite-0.08006/lib/y.pl
+
+[Document 10]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=INI Files
+Indentation Mode=
+Mode=INI Files
+URL=file:///home/andreash/private/clients/rpe/www/config/core/logic/modulebindings/rpe/main.ini
+
+[Document 11]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=HTML
+Indentation Mode=
+Mode=HTML
+URL=file:///home/andreash/private/clients/rpe/www/htdocs/html/info/welcome.html
+
+[Document 12]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=CSS
+Indentation Mode=
+Mode=CSS
+URL=file:///home/andreash/private/clients/rpe/www/htdocs/library/style/default/screen.css
+
+[Document 13]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=
+Mode=
+URL=
+
+[Document 14]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Perl
+Indentation Mode=
+Mode=Perl
+URL=file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/logic/modules/WH/Daemon/AutoFollowTwitter.pm
+
+[Document 15]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Perl
+Indentation Mode=
+Mode=Perl
+URL=file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/logic/modules/WH/Data/LoadTwitter.pm
+
+[Document 16]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=INI Files
+Indentation Mode=
+Mode=INI Files
+URL=file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/config/core/twitterfollowmsg.ini
+
+[Document 2]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Perl
+Indentation Mode=
+Mode=Perl
+URL=file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/logic/modules/WH/Daemon/ImportTwitter.pm
+
+[Document 3]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=
+Mode=
+URL=file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/config/core/logic/daemon/cron.txt
+
+[Document 4]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=INI Files
+Indentation Mode=
+Mode=INI Files
+URL=file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/config/core/twitter.ini
+
+[Document 5]
+Bookmarks=210,194
+Encoding=UTF-8
+Highlighting=Perl
+Indentation Mode=
+Mode=Perl
+URL=file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/lib/WH/Core.pm
+
+[Document 6]
+Bookmarks=240,186
+Encoding=UTF-8
+Highlighting=INI Files
+Indentation Mode=
+Mode=INI Files
+URL=file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/config/core/project.ini
+
+[Document 7]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Perl
+Indentation Mode=
+Mode=Perl
+URL=file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/cgi-bin/whm.pl
+
+[Document 8]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=
+Mode=
+URL=
+
+[Document 9]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Perl
+Indentation Mode=
+Mode=Perl
+URL=file:///home/andreash/temp/testtwitter/Net-Twitter-Lite-0.08006/lib/z.pl
+
+[DocumentModel:MainWindow:0]
+Order=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+SortRole=34
+
+[Kate Plugins]
+katebacktracebrowserplugin=true
+katebuildplugin=true
+katectagsplugin=false
+kateexternaltoolsplugin=true
+katefilebrowserplugin=true
+katefiletemplates=true
+katefindinfilesplugin=true
+katekonsoleplugin=true
+katemailfilesplugin=true
+kateopenheaderplugin=false
+katequickdocumentswitcherplugin=true
+katesnippetsplugin=true
+katesymbolviewerplugin=false
+katetabbarextensionplugin=true
+katetextfilterplugin=true
+
+[MainWindow0]
+Active ViewSpace=0
+Height 800=801
+Kate-MDI-H-Splitter=200,1043,200
+Kate-MDI-Sidebar-0-Splitter=658,0,0
+Kate-MDI-Sidebar-1-Splitter=
+Kate-MDI-Sidebar-2-Splitter=
+Kate-MDI-Sidebar-3-Splitter=0,0,0
+Kate-MDI-Sidebar-Style=2
+Kate-MDI-Sidebar-Visible=true
+Kate-MDI-ToolView-KateBtBrowserPlugin-Persistent=false
+Kate-MDI-ToolView-KateBtBrowserPlugin-Position=3
+Kate-MDI-ToolView-KateBtBrowserPlugin-Sidebar-Position=2
+Kate-MDI-ToolView-KateBtBrowserPlugin-Visible=false
+Kate-MDI-ToolView-kate_filelist-Persistent=false
+Kate-MDI-ToolView-kate_filelist-Position=0
+Kate-MDI-ToolView-kate_filelist-Sidebar-Position=0
+Kate-MDI-ToolView-kate_filelist-Visible=true
+Kate-MDI-ToolView-kate_plugin_snippets-Persistent=false
+Kate-MDI-ToolView-kate_plugin_snippets-Position=0
+Kate-MDI-ToolView-kate_plugin_snippets-Sidebar-Position=2
+Kate-MDI-ToolView-kate_plugin_snippets-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Sidebar-Position=1
+Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Sidebar-Position=1
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Sidebar-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Visible=false
+Kate-MDI-V-Splitter=150,634,200
+State=AAAA/wAAAAD9AAAAAAAABPgAAAKSAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAAAAAAGABlAHgAdAByAGEAVABvAG8AbABCAGEAcgEAAAMa/////wAAAAAAAAAA
+Width 1280=1281
+
+[MainWindow0][Toolbar extraToolBar]
+Index=1
+ToolButtonStyle=TextBesideIcon
+
+[MainWindow0][Toolbar mainToolBar]
+Index=0
+
+[MainWindow0 Settings]
+Height 800=801
+State=AAAA/wAAAAD9AAAAAAAABPgAAAKSAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAAAAAAGABlAHgAdAByAGEAVABvAG8AbABCAGEAcgEAAAMa/////wAAAAAAAAAA
+Width 1280=1281
+WindowState=10
+
+[MainWindow0 Settings][Toolbar extraToolBar]
+Index=1
+ToolButtonStyle=TextBesideIcon
+
+[MainWindow0 Settings][Toolbar mainToolBar]
+Index=0
+
+[MainWindow0-Splitter 0]
+Children=MainWindow0-ViewSpace 0
+Orientation=1
+Sizes=1043
+
+[MainWindow0-ViewSpace 0]
+Active View=file:///home/andreash/private/clients/rpe/www/htdocs/html/info/welcome.html
+Count=11
+View 0=file:///home/andreash/private/clients/rpe/www/htdocs/library/style/default/screen.css
+View 1=file:///home/andreash/private/clients/rpe/www/config/core/logic/modulebindings/rpe/main.ini
+View 10=file:///home/andreash/private/clients/rpe/www/htdocs/html/info/welcome.html
+View 2=file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/config/core/project.ini
+View 3=file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/logic/modules/WH/Daemon/ImportTwitter.pm
+View 4=file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/logic/modules/WH/Data/LoadTwitter.pm
+View 5=file:///home/andreash/temp/testtwitter/Net-Twitter-Lite-0.08006/lib/x.pl
+View 6=file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/config/core/logic/daemon/cron.txt
+View 7=file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/config/core/twitter.ini
+View 8=file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/config/core/twitterfollowmsg.ini
+View 9=file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/logic/modules/WH/Daemon/AutoFollowTwitter.pm
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/cgi-bin/whm.pl]
+CursorColumn=75
+CursorLine=52
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/config/core/logic/daemon/cron.txt]
+CursorColumn=4
+CursorLine=3
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/config/core/project.ini]
+CursorColumn=116
+CursorLine=221
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/config/core/twitter.ini]
+CursorColumn=0
+CursorLine=5
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/config/core/twitterfollowmsg.ini]
+CursorColumn=41
+CursorLine=2
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/lib/WH/Core.pm]
+CursorColumn=56
+CursorLine=437
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/logic/modules/WH/Daemon/AutoFollowTwitter.pm]
+CursorColumn=51
+CursorLine=126
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/logic/modules/WH/Daemon/ImportTwitter.pm]
+CursorColumn=18
+CursorLine=54
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/private/clients/rpe/projects/rated-patent.com/www/logic/modules/WH/Data/LoadTwitter.pm]
+CursorColumn=0
+CursorLine=44
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/private/clients/rpe/www/config/core/logic/modulebindings/rpe/main.ini]
+CursorColumn=21
+CursorLine=2
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/private/clients/rpe/www/htdocs/html/info/welcome.html]
+CursorColumn=63
+CursorLine=39
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/private/clients/rpe/www/htdocs/library/style/default/screen.css]
+CursorColumn=20
+CursorLine=6077
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/private/clients/rpe/www/logic/modules/WH/Data/LoadNews.pm]
+CursorColumn=0
+CursorLine=14
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/temp/testtwitter/Net-Twitter-Lite-0.08006/lib/x.pl]
+CursorColumn=1
+CursorLine=16
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/temp/testtwitter/Net-Twitter-Lite-0.08006/lib/y.pl]
+CursorColumn=0
+CursorLine=5
+
+[MainWindow0-ViewSpace 0 file:///home/andreash/temp/testtwitter/Net-Twitter-Lite-0.08006/lib/z.pl]
+CursorColumn=43
+CursorLine=14
+
+[Open Documents]
+Count=17
+
+[Open MainWindows]
+Count=1
+
+[Plugin:katebuildplugin:MainWindow:0:build-plugin]
+Clean Command=make clean
+Make Command=make
+Make Path=
+Quick Compile Command=gcc -Wall -g
+
+[Plugin:katefilebrowserplugin:MainWindow:0]
+current filter=
+dir history[$e]=
+last filter=
+
+[Plugin:katefilebrowserplugin:MainWindow:0:dir]
+Decoration position=0
+Previews=false
+Show Preview=false
+Show hidden files=false
+Sort by=Name
+Sort reversed=false
+View Style=Simple
+
+[Plugin:katefindinfilesplugin::find-in-files]
+CaseSensitive=true
+LastSearchFiles=*,*.h\\,*.hxx\\,*.cpp\\,*.cc\\,*.C\\,*.cxx\\,*.idl\\,*.c,*.cpp\\,*.cc\\,*.C\\,*.cxx\\,*.c,*.h\\,*.hxx\\,*.idl
+LastSearchItems=
+LastSearchPaths=
+Recursive=true
+RegExp=false
+
+[Plugin:katetabbarextensionplugin:MainWindow:0:view]
+button style=0
+color active=150,150,255
+color modified=255,0,0
+color previous=150,150,255
+count of rows=1
+fixed height=22
+follow current tab=true
+highlight active=false
+highlight modified=false
+highlight opacity=20
+highlight previous=false
+highlighted colors=
+highlighted documents=
+location top=false
+maximum width=150
+minimum width=70
+sort type=0
+
+[Recent Files]
+File1[$e]=$HOME/private/clients/rpe/projects/rated-patent.com/www/config/core/project.ini
+File10[$e]=$HOME/private/clients/rpe/projects/rated-patent.com/www/config/core/twitterfollowmsg.ini
+File2[$e]=$HOME/private/clients/rpe/projects/rated-patent.com/www/cgi-bin/whm.pl
+File3[$e]=$HOME/temp/testtwitter/Net-Twitter-Lite-0.08006/lib/z.pl
+File4[$e]=$HOME/private/clients/rpe/www/logic/modules/WH/Data/LoadNews.pm
+File5[$e]=$HOME/private/clients/rpe/www/config/core/logic/modulebindings/rpe/main.ini
+File6[$e]=$HOME/private/clients/rpe/www/htdocs/html/info/welcome.html
+File7[$e]=$HOME/private/clients/rpe/www/htdocs/library/style/default/screen.css
+File8[$e]=$HOME/private/clients/rpe/projects/rated-patent.com/www/logic/modules/WH/Daemon/AutoFollowTwitter.pm
+File9[$e]=$HOME/private/clients/rpe/projects/rated-patent.com/www/logic/modules/WH/Data/LoadTwitter.pm
+Name1[$e]=project.ini
+Name10[$e]=twitterfollowmsg.ini
+Name2[$e]=whm.pl
+Name3[$e]=z.pl
+Name4[$e]=LoadNews.pm
+Name5[$e]=main.ini
+Name6[$e]=welcome.html
+Name7[$e]=screen.css
+Name8[$e]=AutoFollowTwitter.pm
+Name9[$e]=LoadTwitter.pm

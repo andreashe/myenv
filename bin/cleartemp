@@ -1,0 +1,9 @@
+#!/bin/bash
+DELPATH=~/temp
+BACKDAYS=30
+
+# Find old files
+find $DELPATH -maxdepth 1 -type d -mtime +$BACKDAYS -print0 | \
+  xargs --no-run-if-empty -0 rm -R
+
+
