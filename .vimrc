@@ -36,10 +36,10 @@ set noswapfile
 "
 "   set a marker (the cursor is left between the marker characters)
 "   This is the place to change the jump marks if you want to
-imap __Vmark__ <C-V>«<C-V>»
-vmap __Vmark__ "zc<C-V>«<C-R>z<C-V>»<ESC>
+imap __Vmark__ <C-V>Â«<C-V>Â»
+vmap __Vmark__ "zc<C-V>Â«<C-R>z<C-V>Â»<ESC>
 "   jump to next marker
-map __Vjump__ /«[^«»]\{-}»/<CR>a<C-R>=histdel("search",-1)<CR><BS>:"<ESC>h"myt»h@m<C-M>cf»
+map __Vjump__ /Â«[^Â«Â»]\{-}Â»/<CR>a<C-R>=histdel("search",-1)<CR><BS>:"<ESC>h"mytÂ»h@m<C-M>cfÂ»
 imap __Vjump__ <ESC>__Vjump__
 
 map <M-.> __Vjump__
@@ -119,4 +119,49 @@ map <A-Down> zR
 
 source ~/.vimrc_intel
 
+" my shortcuts
 
+imap dumper use Data::Dumper;<RETURN>print Dumper(  );
+
+
+imap sub<TAB> sub  {<RETURN>my $self = shift;<RETURN><RETURN>return;<ESC>hkkkhi
+
+imap .<TAB> ->{''}<ESC>hi
+imap -<TAB> ->();<ESC>hhi
+imap r<TAB> return;<ESC>i
+imap {<TAB> {<RETURN>}<ESC>ka<RETURN>
+imap {<RETURN> {<RETURN>}<ESC>O
+imap =<TAB> <SPACE>=> <ESC>a
+imap ss<TAB> my $self = shift;<RETURN>
+imap s<TAB> $self->
+imap pp<TAB> my $param = { @_ };<RETURN>
+imap ppp<TAB> my $ = $param->{''};<ESC>bbbbba
+
+" clone block
+map <M-[>   V%y%p
+map <M-p>   !perltidy<RETURN>
+
+
+
+"
+" Special Setting for the width of the taglist window
+"
+
+let Tlist_Auto_Open = 0
+let Tlist_Auto_Highlight_Tag = 1
+let Tlist_Auto_Update = 1
+let Tlist_Close_On_Select = 1
+let Tlist_Exit_OnlyWindow = 1
+let Tlist_Highlight_Tag_On_BufEnter = 1
+let Tlist_Inc_Winwidth = 0
+let Tlist_Process_File_Always = 1
+let Tlist_Sort_Type = "name"
+let Tlist_Use_SingleClick = 1
+
+let tlist_perl_settings = "perl;s:Subroutines"
+
+" set status line to include the current tag (function name)
+set statusline=%<%f\ %([%{Tlist_Get_Tagname_By_Line()}]%)\ %h%m%r%=%-14.(%l,%c%V%)\ %P
+
+set laststatus=2 
+ 
