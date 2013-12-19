@@ -36,10 +36,10 @@ set noswapfile
 "
 "   set a marker (the cursor is left between the marker characters)
 "   This is the place to change the jump marks if you want to
-imap __Vmark__ <C-V>Â«<C-V>Â»
-vmap __Vmark__ "zc<C-V>Â«<C-R>z<C-V>Â»<ESC>
+imap __Vmark__ <C-V>«<C-V>»
+vmap __Vmark__ "zc<C-V>«<C-R>z<C-V>»<ESC>
 "   jump to next marker
-map __Vjump__ /Â«[^Â«Â»]\{-}Â»/<CR>a<C-R>=histdel("search",-1)<CR><BS>:"<ESC>h"mytÂ»h@m<C-M>cfÂ»
+map __Vjump__ /«[^«»]\{-}»/<CR>a<C-R>=histdel("search",-1)<CR><BS>:"<ESC>h"myt»h@m<C-M>cf»
 imap __Vjump__ <ESC>__Vjump__
 
 map <M-.> __Vjump__
@@ -117,7 +117,7 @@ map <A-Up> zM
 map <A-Down> zR
 
 
-source ~/.vimrc_intel
+### source ~/.vimrc_local
 
 " my shortcuts
 
@@ -164,4 +164,9 @@ let tlist_perl_settings = "perl;s:Subroutines"
 set statusline=%<%f\ %([%{Tlist_Get_Tagname_By_Line()}]%)\ %h%m%r%=%-14.(%l,%c%V%)\ %P
 
 set laststatus=2 
- 
+
+" session tabs
+" http://www.vim.org/scripts/script.php?script_id=3150
+" use :SaveSession and :OpenSession
+let g:session_autosave = 'yes'
+
