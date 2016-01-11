@@ -117,7 +117,6 @@ map <A-Up> zM
 map <A-Down> zR
 
 
-### source ~/.vimrc_local
 
 " my shortcuts
 
@@ -141,7 +140,9 @@ imap ppp<TAB> my $ = $param->{''};<ESC>bbbbba
 map <M-[>   V%y%p
 map <M-p>   !perltidy<RETURN>
 
-
+" nerdtree tab
+map <TAB> gt
+map <S-TAB> gT
 
 "
 " Special Setting for the width of the taglist window
