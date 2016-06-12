@@ -1,0 +1,19 @@
+
+source ~/perl5/perlbrew/etc/bashrc
+
+PATH=~/perl5/perlbrew/perls/perl-5.20.1/bin:$PATH
+export PATH
+
+export PS1="\u:\W>\[$(tput sgr0)\]"
+
+
+
+PERL_MODULES="$HOME/dev2/Perl-Modules" 
+
+for folder in `ls $PERL_MODULES`; do
+
+PERL5LIB="$PERL_MODULES/$folder/lib:$PERL5LIB"
+
+done
+export PERL5LIB=$PERL5LIB
+
