@@ -1,6 +1,6 @@
-set tabstop=4
-set ts=4
-set sw=4
+set tabstop=2
+set ts=2
+set sw=2
 set smartindent
 set ruler
 set expandtab
