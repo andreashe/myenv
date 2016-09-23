@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+use Data::Dumper;
+print Dumper(${1});
+]]></content>
+  <tabTrigger>dump</tabTrigger>
+  <scope>source.perl</scope>
+</snippet>

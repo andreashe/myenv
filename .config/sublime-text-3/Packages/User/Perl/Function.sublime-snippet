@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+## @method
+#  @brief  
+#  @return
+sub new{
+  my $pkg = shift;
+  my $param = {@_};
+
+  ${1}
+
+}
+]]></content>
+  <tabTrigger>sub</tabTrigger>
+  <scope>source.perl</scope>
+</snippet>
